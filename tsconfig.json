@@ -1,0 +1,14 @@
+{
+  "include": ["src"],
+  "compilerOptions": {
+    "strict": true,
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "declaration": true,
+    "noEmitHelpers": true,
+    "noEmitOnError": true,
+    "esModuleInterop": true,
+    "target": "ES2020",
+    "skipLibCheck": true
+  }
+}
